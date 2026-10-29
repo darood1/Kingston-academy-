@@ -1,0 +1,11 @@
+# Kingston Academy update
+- Basket/cart pages, navigation and add-to-basket buttons removed.
+- Course booking buttons open the supplied Stripe Payment Links directly.
+- SIA instructor photograph updated and cropped to exclude the Birmingham banner/flipchart.
+- CCTV photograph updated.
+- KA logo used in header and favicon.
+- Moving accreditation logo marquee on homepage (pauses on hover and respects reduced-motion settings).
+- Other existing course images retained.
+- Original homepage hero photograph retained because a separate original image of students holding books was not available in the supplied website package. Replace assets/images/trainer.webp and the homepage hero reference when that image is supplied.
+- Please verify accreditation permissions and the Stripe product names/prices before launch.
+- Contact form requires FormSubmit activation.
